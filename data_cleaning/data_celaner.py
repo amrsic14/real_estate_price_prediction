@@ -62,12 +62,17 @@ def remove_null_containing_entries(file: str, fields: List[str]):
     df.to_json(file, orient='records')
 
 
+def json_to_csv(file: str):
+    df = pd.read_json(file, encoding="utf-8")
+    df.to_csv(f'{file.split(".")[0]}.csv', index_label=False, encoding="utf-8", index=False)
+
+
 if __name__ == '__main__':
-    input_file = '4zida.json'
+    input_file = '../real_estate_scraper/4zida.json'
     cleaned_file = '4zida_cleaned.json'
 
-    with open(input_file, 'r') as file:
-        data = json.load(file)
+    with open(input_file, 'r') as json_file:
+        data = json.load(json_file)
         for ad in data:
             if not ad['room_number']:
                 del ad
@@ -80,7 +85,7 @@ if __name__ == '__main__':
             # ad['municipality'] =
             # ad['room_number'] =
             # ad['square_footage'] =
-            ad['heating'] = True if ad['heating'] else False
+            # ad['heating'] =
             ad['floor'] = clean_floor(ad['floor'])
             ad['bathroom_number'] = clean_bathroom_number(ad['bathroom_number'])
             ad['build_year'] = int(ad['build_year']) if ad['build_year'] else None
