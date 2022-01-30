@@ -1,0 +1,201 @@
+id,price,link,offer_type,property_type,city,municipality,room_number,square_footage,heating,floor,bathroom_number,build_year,elevator,balcony,land_area,registered,parking
+17462,187000,https://www.4zida.rs/prodaja/kuce/backa-palanka/oglas/gradske-lokacije/5fb63bf9376a6713f42e4bac,prodaja,kuce,"Bačka Palanka","Bačka Palanka",1,25288,NULL,NULL,1,NULL,0,0,0,1,0
+17360,99900,https://www.4zida.rs/prodaja/kuce/backa-palanka/oglas/gradske-lokacije/5f96bcea2f05c57b5b35a687,prodaja,kuce,"Bačka Palanka","Bačka Palanka",4,11206,NULL,NULL,1,1998,0,1,0,1,0
+23348,206000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/cenej/61ca096d6f91b27336519f73,prodaja,kuce,"Novi Sad","Okolne lokacije",10,6820,"grejanje na gas",NULL,1,NULL,0,0,68,0,0
+16789,206000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/cenej/61ca096d6f91b27336519f73,prodaja,kuce,"Novi Sad","Okolne lokacije",10,6820,"grejanje na gas",NULL,1,NULL,0,0,68,0,0
+23140,370000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/ribnjak/5ee9c91227317154093231bc,prodaja,kuce,"Novi Sad",Petrovaradin,3,6575,NULL,NULL,1,NULL,0,0,0,1,0
+3809,36000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/glavica/5ee9c94e27317154093231e3,prodaja,kuce,"Novi Sad","Sremska Kamenica",3,4441,NULL,NULL,1,NULL,0,0,0,0,0
+23131,36000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/glavica/5ee9c94e27317154093231e3,prodaja,kuce,"Novi Sad","Sremska Kamenica",3,4441,NULL,NULL,1,NULL,0,0,0,0,0
+12148,196000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/laze-kostica/6159e5012eaec2228c2643e8,prodaja,kuce,"Novi Sad","Okolne lokacije",7,3585,"grejanje na gas",NULL,1,1900,0,1,2600,1,1
+23182,53500,https://www.4zida.rs/prodaja/kuce/irig/oglas/gradske-lokacije/61dd67fffe80cf634f3af853,prodaja,kuce,Irig,Irig,3,3272,NULL,NULL,1,1990,0,0,0,1,0
+13080,130000,https://www.4zida.rs/prodaja/kuce/backa-palanka/oglas/vr-putnika/5caa3ba59a309141ec6d3863,prodaja,kuce,"Bačka Palanka","Okolne lokacije",5,3200,"etažno grejanje",NULL,1,1989,0,1,3200,1,1
+22818,300000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/ljubomira-zivkovica-spanca/61e69a9abadc6009802b3cfc,prodaja,kuce,Beograd,"Barajevo opština",5,2023,"etažno grejanje",NULL,1,NULL,0,1,23,1,1
+23737,320000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/sremska-kamenica/61c9f41d4201ab3d8b558178,prodaja,kuce,"Novi Sad","Gradske lokacije",6,1937,"centralno grejanje",NULL,1,1980,0,0,0,0,0
+3834,22000,https://www.4zida.rs/prodaja/kuce/beocin/oglas/cerevic/60af8d6033aa2065f670528e,prodaja,kuce,Beočin,"Okolne lokacije",1,1557,NULL,NULL,1,NULL,0,1,0,1,0
+22403,61800,https://www.4zida.rs/prodaja/kuce/beocin/oglas/cerevic/61b20203388b6030500553c5,prodaja,kuce,Beočin,"Okolne lokacije",3,1537,NULL,NULL,1,NULL,0,1,0,1,0
+9988,61800,https://www.4zida.rs/prodaja/kuce/beocin/oglas/cerevic/61b20203388b6030500553c5,prodaja,kuce,Beočin,"Okolne lokacije",3,1537,NULL,NULL,1,NULL,0,1,0,1,0
+23134,69010,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/puckaros/5ee9c93927317154093231d7,prodaja,kuce,"Novi Sad",Petrovaradin,2,1413,NULL,NULL,1,NULL,0,0,0,1,0
+17368,69010,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/puckaros/5ee9c93927317154093231d7,prodaja,kuce,"Novi Sad",Petrovaradin,2,1413,NULL,NULL,1,NULL,0,0,0,1,0
+558,824000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/petrovaradin/5afc1208b70c597de61d72f7,prodaja,kuce,"Novi Sad","Gradske lokacije",5,1400,"centralno grejanje",NULL,1,NULL,0,0,3,0,1
+17067,123600,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/petrovaradin/5f8473706306c73ccf334433,prodaja,kuce,"Novi Sad","Gradske lokacije",2,1300,"grejanje na gas",NULL,1,2000,0,0,0,1,0
+18381,10000,https://www.4zida.rs/izdavanje/kuce/nis/oglas/pantelej/5f57a3216751e51d953f09f5,izdavanje,kuce,Niš,"Gradske lokacije",10,1275,NULL,NULL,1,2000,0,0,3,0,0
+23624,160000,https://www.4zida.rs/prodaja/kuce/nis/oglas/bubanjskih-heroja/5f8eac5c85be5c710271d02b,prodaja,kuce,Niš,"Gradske lokacije",4,1240,NULL,NULL,1,NULL,0,0,0,1,0
+22426,257500,https://www.4zida.rs/prodaja/kuce/indjija/oglas/cortanovci/61eea79d5d867a60f3640d13,prodaja,kuce,Inđija,"Okolne lokacije",7,1208,NULL,NULL,1,2009,0,0,0,1,0
+22258,123600,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/cardak/61937683db123631bd2fa723,prodaja,kuce,"Novi Sad","Sremska Kamenica",5,1194,"grejanje na struju",NULL,3,NULL,0,1,11.94,1,0
+11292,5500000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/dedinje/58b7d4c67ce3af116c5306b5,prodaja,kuce,Beograd,"Savski Venac",5,1150,"grejanje na gas",NULL,1,1995,0,1,27,0,0
+11299,5500000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/iliciceva/58fe38157ce3af3ef842aa3a,prodaja,kuce,Beograd,"Savski Venac",1,1150,NULL,NULL,1,NULL,0,0,0,0,0
+22819,4650000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/topcider/5ece659a2731715a6334c8e3,prodaja,kuce,Beograd,"Savski Venac",6,1150,"etažno grejanje",NULL,5,2008,0,1,27,1,0
+3094,4650000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/topcider/5ece659a2731715a6334c8e3,prodaja,kuce,Beograd,"Savski Venac",6,1150,"etažno grejanje",NULL,5,2008,0,1,27,1,0
+7941,6000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/avalska/61af3820c749af084902304c,izdavanje,kuce,Beograd,"Voždovac opština",23,1138,"podno grejanje",NULL,1,NULL,0,1,12,0,0
+20106,6000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/avalska/61af3820c749af084902304c,izdavanje,kuce,Beograd,"Voždovac opština",23,1138,"podno grejanje",NULL,1,NULL,0,1,12,0,0
+5304,12000,https://www.4zida.rs/prodaja/kuce/sombor/oglas/oslobodjenja/5e42d9930c7cde2b487c7f92,prodaja,kuce,Sombor,"Okolne lokacije",4,1120,NULL,NULL,2,NULL,0,0,0,1,0
+10476,750000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/pavla-vujisica/58adb4127ce3af4fe83ec0a7,prodaja,kuce,Beograd,Zemun,1,1100,"etažno grejanje",NULL,1,NULL,0,1,0,0,0
+23139,118000,https://www.4zida.rs/prodaja/kuce/srbobran/oglas/gradske-lokacije/5ee9c93027317154093231d1,prodaja,kuce,Srbobran,Srbobran,5,1100,"grejanje na gas",NULL,1,NULL,0,0,0,1,0
+502,118000,https://www.4zida.rs/prodaja/kuce/srbobran/oglas/gradske-lokacije/5ee9c93027317154093231d1,prodaja,kuce,Srbobran,Srbobran,5,1100,"grejanje na gas",NULL,1,NULL,0,0,0,1,0
+6415,2000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/beogradska/5fcf68d21b17e434b504fb74,izdavanje,kuce,Beograd,"Palilula opština",9,1050,"grejanje na struju",NULL,1,NULL,0,1,0,0,1
+18371,2000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/beogradska/5fcf68d21b17e434b504fb74,izdavanje,kuce,Beograd,"Palilula opština",9,1050,"grejanje na struju",NULL,1,NULL,0,1,0,0,1
+11268,5200000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/dedinje/60b113348fcd81551e025ef3,prodaja,kuce,Beograd,"Savski Venac",10,1000,"etažno grejanje",NULL,1,NULL,0,1,0,1,0
+23147,130000,https://www.4zida.rs/prodaja/kuce/batocina/oglas/niksic/5f2ee4889a30910de02b90c6,prodaja,kuce,Batočina,"Okolne lokacije",10,1000,"etažno grejanje",NULL,1,NULL,0,1,0,1,0
+18311,300,https://www.4zida.rs/izdavanje/kuce/vrbas/oglas/ravno-selo/6054a0431a2b9573cd57e142,izdavanje,kuce,Vrbas,"Okolne lokacije",7,1000,NULL,NULL,1,NULL,0,0,100,0,0
+7872,85000,https://www.4zida.rs/prodaja/kuce/sabac/oglas/slatina/615317fb84e2de0e527d2f52,prodaja,kuce,Šabac,"Okolne lokacije",20,1000,"etažno grejanje",NULL,1,2010,0,0,22,1,0
+18397,10000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/visnjicka/5e6cd4b62731712c3b77cc2b,izdavanje,kuce,Beograd,"Palilula opština",10,1000,"centralno grejanje",NULL,1,NULL,0,0,0,0,0
+22681,422000,https://www.4zida.rs/prodaja/kuce/ruma/oglas/voganj/61371ec64e32cd6a8d01e202,prodaja,kuce,Ruma,"Okolne lokacije",8,1000,NULL,NULL,1,1984,0,0,288,1,0
+5343,422000,https://www.4zida.rs/prodaja/kuce/ruma/oglas/voganj/61371ec64e32cd6a8d01e202,prodaja,kuce,Ruma,"Okolne lokacije",8,1000,NULL,NULL,1,1984,0,0,288,1,0
+23127,255000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/bocke/5ee9c99d273171540932321c,prodaja,kuce,"Novi Sad","Sremska Kamenica",5,1000,"grejanje na gas",NULL,1,NULL,0,0,0,1,0
+18158,8000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/vajara-djoke-jovanovica/615ae99fbedbea5c777a14d3,izdavanje,kuce,Beograd,"Savski Venac",10,1000,"grejanje na gas",NULL,3,NULL,0,1,0,0,0
+23017,1300000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/tolstojeva/605f64382009d54fe2693883,prodaja,kuce,Beograd,"Savski Venac",7,980,"grejanje na struju",NULL,4,NULL,0,1,6.5,1,0
+11296,1300000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/tolstojeva/605f64382009d54fe2693883,prodaja,kuce,Beograd,"Savski Venac",7,980,"grejanje na struju",NULL,4,NULL,0,1,6.5,1,0
+22685,220000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/brdjanska/619bc6dc1788e17a963fc323,prodaja,kuce,Beograd,Barajevo,10,980,"etažno grejanje",NULL,1,NULL,0,1,30,1,1
+11376,220000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/brdjanska/619bc6dc1788e17a963fc323,prodaja,kuce,Beograd,Barajevo,10,980,"etažno grejanje",NULL,1,NULL,0,1,30,1,1
+18358,2000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/veliko-selo/6036956e875d4e04881a8f83,izdavanje,kuce,Beograd,"Palilula opština",12,950,NULL,NULL,4,2020,0,1,10,0,0
+10014,295000,https://www.4zida.rs/prodaja/kuce/pancevo/oglas/bavanistanski-put/616fceff101fae48fd32288f,prodaja,kuce,Pančevo,"Gradske lokacije",19,947,NULL,NULL,1,1997,0,1,946,0,1
+9257,465000,https://www.4zida.rs/prodaja/kuce/titel/oglas/lok/613b32bc19c6a22964364d15,prodaja,kuce,Titel,"Okolne lokacije",6,943,"etažno grejanje",NULL,1,NULL,0,0,108,1,0
+23611,100000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/sremska-kamenica/61c9f4614201ab3d8b5581bc,prodaja,kuce,"Novi Sad","Gradske lokacije",3,935,"grejanje na gas",NULL,1,1900,0,0,0,1,0
+23169,133900,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/cardak/5f2b2f3772d63a1ca63f5d7c,prodaja,kuce,"Novi Sad","Sremska Kamenica",3,935,"grejanje na gas",NULL,1,NULL,0,1,0,1,0
+17665,133900,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/cardak/5f2b2f3772d63a1ca63f5d7c,prodaja,kuce,"Novi Sad","Sremska Kamenica",3,935,"grejanje na gas",NULL,1,NULL,0,1,0,1,0
+23129,123600,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/stari-ledinci/5ee9c9982731715409323219,prodaja,kuce,"Novi Sad",Budisava,5,925,NULL,NULL,1,NULL,0,0,0,0,0
+23565,257500,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/sremska-kamenica/61c9f4724201ab3d8b5581d4,prodaja,kuce,"Novi Sad","Gradske lokacije",4,920,NULL,NULL,1,NULL,0,0,0,1,0
+23782,530000,https://www.4zida.rs/prodaja/kuce/zlatibor/oglas/andrije-jevremovica/5cb70e5d273171418663c745,prodaja,kuce,Zlatibor,Zlatibor,10,910,"etažno grejanje",NULL,1,NULL,0,0,17.34,0,0
+7824,530000,https://www.4zida.rs/prodaja/kuce/zlatibor/oglas/andrije-jevremovica/5cb70e5d273171418663c745,prodaja,kuce,Zlatibor,Zlatibor,10,910,"etažno grejanje",NULL,1,NULL,0,0,17.34,0,0
+3085,3900000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/vajara-djoke-jovanovica/5ec6a67427317106d24a2c25,prodaja,kuce,Beograd,"Savski Venac",6,900,"etažno grejanje",NULL,6,2006,0,1,10.9,1,0
+18113,3500,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/majora-zorana-radosavljevica/5fea72b41a156a71c412fbf1,izdavanje,kuce,Beograd,"Zemun opština",13,900,"grejanje na gas",NULL,1,NULL,0,0,16,0,0
+24105,500000,https://www.4zida.rs/prodaja/kuce/kragujevac/oglas/sumarice/61c42fd3cd36fd3ffd31ebd6,prodaja,kuce,Kragujevac,"Gradske lokacije",12,900,NULL,NULL,4,2010,0,1,21,1,1
+18140,3000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/kalvarija/61795dfa49716e185d28e108,izdavanje,kuce,Beograd,Zemun,18,900,NULL,NULL,6,2020,0,1,0,0,1
+18349,1800,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/ibarski-put/607042be681087114a6b6098,izdavanje,kuce,Beograd,"Barajevo opština",10,900,"etažno grejanje",NULL,1,1996,0,1,11,0,1
+18301,3000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/dr-nedeljka-ercegovca/60cca381e45105511378e263,izdavanje,kuce,Beograd,Zemun,10,900,"grejanje na gas",NULL,1,NULL,0,1,5,0,0
+6780,3500,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/majora-zorana-radosavljevica/5fea72b41a156a71c412fbf1,izdavanje,kuce,Beograd,"Zemun opština",13,900,"grejanje na gas",NULL,1,NULL,0,0,16,0,0
+1590,3000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/dr-nedeljka-ercegovca/614da043bdd317763c4acad6,izdavanje,kuce,Beograd,Zemun,10,900,"etažno grejanje",NULL,1,NULL,0,0,0,0,0
+22820,3900000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/vajara-djoke-jovanovica/5ec6a67427317106d24a2c25,prodaja,kuce,Beograd,"Savski Venac",6,900,"etažno grejanje",NULL,6,2006,0,1,10.9,1,0
+11348,520000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/majora-zorana-radosavljevica/5fea6e9e9a30913558399152,prodaja,kuce,Beograd,"Zemun opština",13,900,"grejanje na gas",NULL,1,NULL,0,1,16,1,0
+18134,6000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/vrcin/61795e3449716e185d28e150,izdavanje,kuce,Beograd,"Grocka opština",30,900,NULL,NULL,2,NULL,0,1,0,0,0
+18340,3000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/dr-nedeljka-ercegovca/60ba12f8a5388c4de34e9943,izdavanje,kuce,Beograd,Zemun,10,900,"grejanje na gas",NULL,1,NULL,0,1,0,0,0
+7202,715000,https://www.4zida.rs/prodaja/kuce/subotica/oglas/mali-radanovac/612fa6f0548603051e61b5cf,prodaja,kuce,Subotica,"Gradske lokacije",8,900,"grejanje na gas",NULL,1,2015,0,1,40,1,1
+22193,3000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/dr-nedeljka-ercegovca/614da043bdd317763c4acad6,izdavanje,kuce,Beograd,Zemun,10,900,"etažno grejanje",NULL,1,NULL,0,0,0,0,0
+22864,650000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/futog/61e5b3c6053ef731111e6bd3,prodaja,kuce,"Novi Sad","Okolne lokacije",7,900,"grejanje na gas",NULL,1,1903,0,1,0,1,0
+11347,460000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/batajnica/5fea76520e921f0b426943e6,prodaja,kuce,Beograd,"Zemun opština",12,900,"grejanje na gas",NULL,1,NULL,0,0,7,1,0
+13960,155000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/sremska-kamenica/5f079695ad76e771551e63ff,prodaja,kuce,"Novi Sad","Gradske lokacije",3,889,NULL,NULL,1,NULL,0,1,0,1,0
+23361,155000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/sremska-kamenica/5f079695ad76e771551e63ff,prodaja,kuce,"Novi Sad","Gradske lokacije",3,889,NULL,NULL,1,NULL,0,1,0,1,0
+23602,170000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/sremska-kamenica/61c9f4414201ab3d8b55818c,prodaja,kuce,"Novi Sad","Gradske lokacije",6,889,"grejanje na gas",NULL,1,1994,0,0,0,1,0
+19129,5000,https://www.4zida.rs/izdavanje/kuce/beograd/oglas/pregrevica/613615dd99db6309fc79c99a,izdavanje,kuce,Beograd,Zemun,18,880,"grejanje na struju",NULL,1,NULL,0,1,30,0,1
+23604,103000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/ribnjak/61c9f4604201ab3d8b5581b8,prodaja,kuce,"Novi Sad",Petrovaradin,2,876,"grejanje na struju",NULL,1,2000,0,0,0,0,0
+17365,103000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/ribnjak/61c9f4604201ab3d8b5581b8,prodaja,kuce,"Novi Sad",Petrovaradin,2,876,"grejanje na struju",NULL,1,2000,0,0,0,0,0
+11289,4500000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/bulevar-kneza-aleksandra-karadjordjevica/5fa9524b9a30914bbc335036,prodaja,kuce,Beograd,"Savski Venac",5,875,"etažno grejanje",NULL,1,2010,0,1,18,1,0
+22562,751900,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/bocke/5f7f4bf60b95bb69ae149063,prodaja,kuce,"Novi Sad","Sremska Kamenica",10,873,"grejanje na gas",NULL,1,NULL,0,1,50,1,1
+14200,206000,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/adice/60ad22efeaef002b65597a38,prodaja,kuce,"Novi Sad","Gradske lokacije",5,860,"etažno grejanje",NULL,1,2000,0,0,0,1,0
+23957,3900000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/dedinje/61c4a72eee29af23d4234a73,prodaja,kuce,Beograd,"Savski Venac",10,850,"etažno grejanje",NULL,1,NULL,0,1,10.5,1,0
+7885,3900000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/dedinje/61c4a72eee29af23d4234a73,prodaja,kuce,Beograd,"Savski Venac",10,850,"etažno grejanje",NULL,1,NULL,0,1,10.5,1,0
+23664,74200,https://www.4zida.rs/prodaja/kuce/nis/oglas/sicevo/5fd75fea28bf5436eb36c203,prodaja,kuce,Niš,"Okolne lokacije",4,831,NULL,NULL,2,NULL,0,1,0,1,0
+16292,3500000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/kneginje-zorke/603faebc1e25a265600e4953,prodaja,kuce,Beograd,Vračar,10,815,"centralno grejanje",NULL,4,NULL,0,0,0,1,0
+22409,51500,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/futog/6182536b489a46074d7ad176,prodaja,kuce,"Novi Sad","Okolne lokacije",2,814,"grejanje na gas",NULL,1,NULL,0,0,0,1,0
+23441,108150,https://www.4zida.rs/prodaja/kuce/vrbas/oglas/gradske-lokacije/60b4e4c3064bd6725d5f8c23,prodaja,kuce,Vrbas,Vrbas,10,814,"grejanje na struju",NULL,1,NULL,0,1,12.92,1,1
+3781,51500,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/futog/6182536b489a46074d7ad176,prodaja,kuce,"Novi Sad","Okolne lokacije",2,814,"grejanje na gas",NULL,1,NULL,0,0,0,1,0
+3069,2500000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/vajara-djoke-jovanovica/61893e0379a0cc1897372070,prodaja,kuce,Beograd,"Savski Venac",10,810,"grejanje na gas",NULL,9,2014,0,1,6.5,1,1
+14270,154500,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/adice/61e82a72638fa10a637ce0e6,prodaja,kuce,"Novi Sad","Gradske lokacije",7,810,"etažno grejanje",NULL,1,1991,0,0,0,1,0
+22844,2500000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/vajara-djoke-jovanovica/61893e0379a0cc1897372070,prodaja,kuce,Beograd,"Savski Venac",10,810,"grejanje na gas",NULL,9,2014,0,1,6.5,1,1
+22641,154500,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/adice/61e82a72638fa10a637ce0e6,prodaja,kuce,"Novi Sad","Gradske lokacije",7,810,"etažno grejanje",NULL,1,1991,0,0,0,1,0
+23928,3000000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/drinicka/5a454f1fb70c5901d07d1194,prodaja,kuce,Beograd,"Savski Venac",5,800,"etažno grejanje",NULL,1,1998,0,1,15,1,0
+9241,33000,https://www.4zida.rs/prodaja/kuce/titel/oglas/vilovo/5e4040c29a30912c9c60f98c,prodaja,kuce,Titel,"Okolne lokacije",4,800,"grejanje na gas",NULL,1,2011,0,1,5000,1,0
+10964,550000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/milovana-stevanovica/619eabda0d1ef7462c4c1abe,prodaja,kuce,Beograd,"Barajevo opština",7,800,"etažno grejanje",NULL,2,2000,0,1,19,1,0
+22404,175100,https://www.4zida.rs/prodaja/kuce/novi-sad/oglas/cardak/61795f340c041e20333da043,prodaja,kuce,"Novi Sad","Sremska Kamenica",4,791,"grejanje na gas",NULL,1,NULL,0,1,0,1,0
+2955,270000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/vucinac/5f4d2ae5bfc59263ab2a9e61,prodaja,kuce,Beograd,"Barajevo opština",13,770,"etažno grejanje",NULL,1,NULL,0,1,0,1,1
+3238,650000,https://www.4zida.rs/prodaja/kuce/beograd/oglas/lovacka/5fe3013bcfb97461412e3293,prodaja,kuce,Beograd,"Palilula opština",11,768,"etažno grejanje",NULL,8,NULL,0,1,8,1,1
+4487,100090,https://www.4zida.rs/prodaja/stanovi/novi-sad/oglas/klisa-vikend-naselje/61c31ddd91d1e71ab71279fb,prodaja,stanovi,"Novi Sad","Okolne lokacije",4,479212,"centralno grejanje",NULL,1,2021,0,1,0,1,0
+4906,95180,https://www.4zida.rs/prodaja/stanovi/novi-sad/oglas/podbara/613f507bcd81b779d3192021,prodaja,stanovi,"Novi Sad","Gradske lokacije",2.5,95180,NULL,NULL,1,NULL,0,0,0,1,0
+12103,298000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/veljka-milicevica/60993e8f7906cd3a4c6833dc,prodaja,stanovi,Beograd,"Voždovac opština",5,1643,"centralno grejanje",NULL,1,NULL,1,1,0,1,0
+10215,204480,https://www.4zida.rs/prodaja/stanovi/novi-sad/oglas/filipa-visnjica/61be17492d1863712a3d9666,prodaja,stanovi,"Novi Sad","Gradske lokacije",4,1065,"centralno grejanje",NULL,1,NULL,1,1,0,1,1
+13685,1170000,https://www.4zida.rs/prodaja/stanovi/kopaonik/oglas/gradske-lokacije/5dce99aa27317121d13ea665,prodaja,stanovi,Kopaonik,Kopaonik,4,970,"centralno grejanje",NULL,1,NULL,0,1,0,1,1
+11221,1000000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/vojvode-stepe/5f01ea0e273171713a54f373,prodaja,stanovi,Beograd,"Voždovac opština",5,640,"etažno grejanje",NULL,1,2014,1,1,0,1,0
+3139,150000,https://www.4zida.rs/prodaja/stanovi/zrenjanin/oglas/zitni-trg/60a3803d2e30b35ed3498a18,prodaja,stanovi,Zrenjanin,"Gradske lokacije",8,602,NULL,NULL,2,NULL,0,0,0,0,0
+18428,725000,https://www.4zida.rs/prodaja/stanovi/subotica/oglas/centar-1/61e842461329795556329703,prodaja,stanovi,Subotica,"Gradske lokacije",5.5,600,NULL,NULL,4,1906,0,1,0,0,0
+15933,180000,https://www.4zida.rs/prodaja/stanovi/nis/oglas/somborska/5f12f2639e39663e8420b9b3,prodaja,stanovi,Niš,"Gradske lokacije",5,450,"etažno grejanje",NULL,4,NULL,0,1,0,0,0
+15707,180000,https://www.4zida.rs/prodaja/stanovi/nis/oglas/somborska/5f8eaad485be5c710271cce6,prodaja,stanovi,Niš,"Gradske lokacije",5,450,"etažno grejanje",NULL,4,NULL,0,1,0,0,0
+3501,990000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/mutapova/5f22b77a62e9ec3f60701ba3,prodaja,stanovi,Beograd,Neimar,4,437,NULL,NULL,1,2017,0,1,0,1,0
+3500,1550000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/mutapova/61b3a8cdad221b44b80aad9a,prodaja,stanovi,Beograd,Neimar,4,405,"etažno grejanje",NULL,1,2014,1,1,0,1,0
+3516,1550000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/mutapova/60b0dab8372a4815ef6c6243,prodaja,stanovi,Beograd,Neimar,4,405,"etažno grejanje",NULL,4,NULL,1,1,0,1,1
+6985,7400,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/hram-svetog-save/613b91a623d8735a292a9fe5,izdavanje,stanovi,Beograd,Neimar,5,400,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+8402,4000,https://www.4zida.rs/izdavanje/stanovi/novi-sad/oglas/bulevar-oslobodjenja/603d2d42c342b23c492643d3,izdavanje,stanovi,"Novi Sad","Gradske lokacije",6,397,"centralno grejanje",NULL,3,NULL,1,1,0,0,1
+6984,3200,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/autokomanda/5f1211490c7cde7234307316,izdavanje,stanovi,Beograd,"Voždovac opština",5,380,"centralno grejanje",NULL,3,NULL,1,1,0,0,0
+3727,62000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/bezanijska/61472fd3b5a5266cfa50538d,prodaja,stanovi,Beograd,Zemun,1,374,"grejanje na struju",NULL,1,1930,0,0,0,0,0
+6977,7400,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/hram-svetog-save/5ec439020c7cde545a318e38,izdavanje,stanovi,Beograd,Neimar,5,370,"centralno grejanje",NULL,5,NULL,1,1,0,0,0
+20324,7400,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/cara-nikolaja-ii/6036076938c97859b64850ce,izdavanje,stanovi,Beograd,Vračar,5,370,"etažno grejanje",NULL,1,2020,0,1,0,0,1
+3411,700000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/diane-budisavljevic/5fd75a0336dd33192d13fdb3,prodaja,stanovi,Beograd,"Savski Venac",7,369,NULL,NULL,1,2014,1,1,0,1,0
+18609,1350000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/trnska/60f458ff598db544135f8713,prodaja,stanovi,Beograd,Vračar,7,350,"centralno grejanje",NULL,1,NULL,1,1,0,1,0
+21233,3000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/dedinje/61a380ad049c4a3a814b406c,izdavanje,stanovi,Beograd,"Savski Venac",4,350,"centralno grejanje",NULL,3,2005,0,1,0,0,0
+3046,1380000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/senjak/6021b3bbadf8ef730a148218,prodaja,stanovi,Beograd,"Savski Venac",4,350,"centralno grejanje",NULL,1,2020,1,1,0,1,0
+21239,3000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/dedinje/61a3b913a4d801277d21edc1,izdavanje,stanovi,Beograd,"Savski Venac",4,340,"centralno grejanje",NULL,1,NULL,0,1,0,0,0
+2996,739000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/djuke-dinic/5f3402c16eb6a51f6d358963,prodaja,stanovi,Beograd,"Zvezdara opština",6.5,337,"centralno grejanje",NULL,4,2006,0,1,0,1,0
+3330,950000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/antifasisticke-borbe/619e4b89a0db2c5015070194,prodaja,stanovi,Beograd,"Novi Beograd",8,330,"centralno grejanje",NULL,5,2005,1,1,0,1,0
+21759,4000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/diplomatska-kolonija/615dcd51aa36035df4271397,izdavanje,stanovi,Beograd,Dedinje,5,330,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+19524,399000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/milana-jovanovica/5d723d75273171107b1f2f2b,prodaja,stanovi,Beograd,Čukarica,5,323,"centralno grejanje",NULL,2,2009,1,0,0,0,1
+20853,700,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/gostivarska/61c1c1a0aeb6be5f817bc8c4,izdavanje,stanovi,Beograd,"Voždovac opština",4,321,"centralno grejanje",NULL,2,NULL,1,1,0,0,0
+6906,3300,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/kosovska/61ccb57c1edd276e88332eb9,izdavanje,stanovi,Beograd,"Stari Grad opština",8,315,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+1625,4000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/kosovska/6005cab20915be19d809d358,izdavanje,stanovi,Beograd,"Stari Grad opština",8,315,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+5061,25000,https://www.4zida.rs/prodaja/stanovi/aleksinac/oglas/zitkovac/5fe4588859362b677036a263,prodaja,stanovi,Aleksinac,Aleksinac,2.5,308,NULL,NULL,1,NULL,0,0,0,0,0
+5058,25000,https://www.4zida.rs/prodaja/stanovi/aleksinac/oglas/zitkovac/5fe464b2caccc63937047dda,prodaja,stanovi,Aleksinac,Aleksinac,2.5,308,NULL,NULL,1,NULL,0,0,0,0,0
+13681,679800,https://www.4zida.rs/prodaja/stanovi/novi-sad/oglas/spens/60ed777e7b5ef31bbf509abb,prodaja,stanovi,"Novi Sad","Stari Grad",7,302,"centralno grejanje",NULL,1,NULL,1,1,0,1,0
+14347,680000,https://www.4zida.rs/prodaja/stanovi/novi-sad/oglas/spens/6047d2b1ac8ff35793535363,prodaja,stanovi,"Novi Sad","Stari Grad",6.5,302,"centralno grejanje",NULL,1,NULL,1,1,0,1,1
+13308,679800,https://www.4zida.rs/prodaja/stanovi/novi-sad/oglas/spens/60401ec2ea2ba77cf1537d02,prodaja,stanovi,"Novi Sad","Stari Grad",7,302,"centralno grejanje",NULL,1,2008,1,1,0,0,0
+23967,680000,https://www.4zida.rs/prodaja/stanovi/novi-sad/oglas/spens/6047d2b1ac8ff35793535363,prodaja,stanovi,"Novi Sad","Stari Grad",6.5,302,"centralno grejanje",NULL,1,NULL,1,1,0,1,1
+21794,3000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/rijecka/61ab799e76b5f44cee676d53,izdavanje,stanovi,Beograd,Beograd,5,302,"etažno grejanje",NULL,1,NULL,1,1,0,0,0
+6972,3500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/dedinje/5fec60260c7cde1a23222aa5,izdavanje,stanovi,Beograd,"Savski Venac",5,300,"centralno grejanje",NULL,3,NULL,1,1,0,0,0
+6964,6000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/hram-svetog-save/60c0ea334dfe9324323a6410,izdavanje,stanovi,Beograd,Neimar,5,300,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+8332,1100,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/visnjicka-banja/613359574e03a065a836f330,izdavanje,stanovi,Beograd,"Palilula opština",3,300,"etažno grejanje",NULL,1,NULL,0,1,0,0,1
+6973,3500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/pink/5fef89a975a98e695c72868d,izdavanje,stanovi,Beograd,"Savski Venac",4,300,"centralno grejanje",NULL,3,NULL,1,1,0,0,0
+7023,2400,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/baje-pivljanina/5f4432f00c7cde7eae44cd2f,izdavanje,stanovi,Beograd,"Savski Venac",5,300,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+20331,2500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/jevrema-grujica/61a60e0bc06c620a6e111154,izdavanje,stanovi,Beograd,"Savski Venac",7,300,"grejanje na gas",NULL,1,NULL,0,1,0,0,0
+5623,1800,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/trscanska/60c862eeaaaf3c219673d0f4,izdavanje,stanovi,Beograd,Zemun,4,300,"podno grejanje",NULL,1,NULL,1,0,0,0,0
+19055,750000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/leskovacka/61f0253d30129c692f5818e3,prodaja,stanovi,Beograd,"Voždovac opština",4,300,"centralno grejanje",NULL,1,2010,1,1,0,1,1
+6963,3500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/diplomatska-kolonija/619e1fe571776f38d02abc62,izdavanje,stanovi,Beograd,Dedinje,5,300,"centralno grejanje",NULL,3,NULL,1,1,0,0,0
+21425,2500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/jevrema-grujica/5bd39b262731713e41310715,izdavanje,stanovi,Beograd,"Savski Venac",5,300,"grejanje na gas",NULL,1,NULL,0,1,0,0,1
+6955,4000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/diplomatska-kolonija/607ed9ac7eec8873bc03bd9e,izdavanje,stanovi,Beograd,Dedinje,5,300,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+6933,4500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/hram-svetog-save/5fcff6a4bec4f615bf2ac3ac,izdavanje,stanovi,Beograd,Neimar,4,298,"centralno grejanje",NULL,3,NULL,1,1,0,0,0
+7020,4500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/hram-svetog-save/5eb59a609a309145fa29f3e0,izdavanje,stanovi,Beograd,Neimar,4,297,NULL,NULL,3,NULL,1,1,0,0,0
+3047,1380000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/senjak/6021c183d1de6655453313f3,prodaja,stanovi,Beograd,"Savski Venac",4,290,"centralno grejanje",NULL,1,2020,1,1,0,1,0
+21761,4000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/heroja-milana-tepica/6189415eb460c55f8966c467,izdavanje,stanovi,Beograd,Dedinje,5,288,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+19813,370800,https://www.4zida.rs/prodaja/stanovi/novi-sad/oglas/novi-sad-centar/61c1d4050db97d4fe15385d9,prodaja,stanovi,"Novi Sad","Stari Grad",8,285,NULL,NULL,1,1900,0,1,0,1,0
+12473,3300,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/andricev-venac/5f64d7486119c00d737a8ac2,izdavanje,stanovi,Beograd,"Stari Grad opština",8,285,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+66,370800,https://www.4zida.rs/prodaja/stanovi/novi-sad/oglas/novi-sad-centar/61c1d4050db97d4fe15385d9,prodaja,stanovi,"Novi Sad","Stari Grad",8,285,NULL,NULL,1,1900,0,1,0,1,0
+11216,500000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/generala-anrija/5fd7edf965eba062ff36123a,prodaja,stanovi,Beograd,"Voždovac opština",5,284,NULL,NULL,1,NULL,1,1,0,0,0
+6951,4500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/hram-svetog-save/61965e873479760ee015ed4c,izdavanje,stanovi,Beograd,Neimar,5,280,"centralno grejanje",NULL,3,NULL,1,1,0,0,0
+4282,346000,https://www.4zida.rs/prodaja/stanovi/uzice/oglas/gradske-lokacije/618cf039f9bf4e6f814a19f3,prodaja,stanovi,Užice,Užice,2,280,NULL,NULL,1,2021,0,0,0,0,0
+6950,5000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/hram-svetog-save/5ff1c03f0c7cde73323677d9,izdavanje,stanovi,Beograd,Neimar,5,280,"centralno grejanje",NULL,3,NULL,1,1,0,0,0
+6947,4500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/hram-svetog-save/6153381f847a9c3afa5bf998,izdavanje,stanovi,Beograd,Neimar,5,280,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+21769,4000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/heroja-milana-tepica/611fc1dfe346fd0b80351d87,izdavanje,stanovi,Beograd,Dedinje,5,280,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+6960,5600,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/hram-svetog-save/6068d3fb07927b6aea610437,izdavanje,stanovi,Beograd,Neimar,5,280,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+6956,5000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/hram-svetog-save/6108042f7b850b0c3725e140,izdavanje,stanovi,Beograd,Neimar,5,280,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+1504,2500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/trnska/609e6ffaad51bc59bc152a4e,izdavanje,stanovi,Beograd,Vračar,4,277,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+7346,140000,https://www.4zida.rs/prodaja/stanovi/subotica/oglas/centar-1/60fad8d321e9d602b03d5fc3,prodaja,stanovi,Subotica,"Gradske lokacije",4,276,"grejanje na gas",NULL,2,NULL,0,0,0,0,0
+2763,10000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/istocni-vracar/61885ccc7e68345ace379ff2,izdavanje,stanovi,Beograd,Vračar,5,271,"centralno grejanje",NULL,4,NULL,1,1,0,0,0
+3073,2600000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/istocni-vracar/61df743ee56f2568892377b3,prodaja,stanovi,Beograd,Vračar,5,271,"centralno grejanje",NULL,1,NULL,1,1,0,1,0
+21244,10000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/istocni-vracar/61885ccc7e68345ace379ff2,izdavanje,stanovi,Beograd,Vračar,5,271,"centralno grejanje",NULL,4,NULL,1,1,0,0,0
+6946,4500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/senjak/61117937055c2666405a1db5,izdavanje,stanovi,Beograd,"Savski Venac",5,265,"centralno grejanje",NULL,3,NULL,1,1,0,0,0
+6918,2700,https://www.4zida.rs/izdavanje/stanovi/kosovska-mitrovica/oglas/milenka-vesnica/5d6414602731713cc036c455,izdavanje,stanovi,"Kosovska Mitrovica","Okolne lokacije",5,262,"etažno grejanje",NULL,1,NULL,0,1,0,0,0
+6968,3500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/dedinje/5f9dede9276c6e2d500f98bb,izdavanje,stanovi,Beograd,"Savski Venac",4,260,"centralno grejanje",NULL,3,NULL,1,1,0,0,0
+12108,400000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/vidska/60a2c32a08427b188c15a236,prodaja,stanovi,Beograd,"Voždovac opština",5,260,"podno grejanje",NULL,1,2016,1,1,0,1,0
+12098,390000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/brace-kovac/6049f0163807d226ac522c23,prodaja,stanovi,Beograd,"Voždovac opština",5,260,"podno grejanje",NULL,1,2016,1,1,0,1,0
+6962,3500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/diplomatska-kolonija/5ff5d3e30c7cde55e4176426,izdavanje,stanovi,Beograd,Dedinje,4,260,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+21706,3500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/diplomatska-kolonija/607ed89b891c1c6b7d5b21ea,izdavanje,stanovi,Beograd,Dedinje,4,260,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+17892,950000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/gospodar-jevremova/5e306836273171310302faa1,prodaja,stanovi,Beograd,"Beograd centar",6,260,"etažno grejanje",NULL,1,NULL,0,1,0,1,0
+11202,95000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/ratka-jevtica/60bb98eafb7f4220f91c5583,prodaja,stanovi,Beograd,"Barajevo opština",2,258,NULL,NULL,1,NULL,0,1,0,1,0
+2181,180000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/kalemarska/5eda69312731714103377c79,prodaja,stanovi,Beograd,"Voždovac opština",4,257,"kaljeva peć",NULL,1,NULL,0,1,0,1,0
+18682,390000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/brace-kovac/60f9b6d25fa72f0c394b4693,prodaja,stanovi,Beograd,"Voždovac opština",4,257,"podno grejanje",NULL,1,2016,1,1,0,1,0
+21763,3500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/miloja-djaka/616c5250b7d5ed1bbe6aff0f,izdavanje,stanovi,Beograd,"Savski Venac",4,255,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+6957,3500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/miloja-djaka/617459ae41aa1052245c3dfa,izdavanje,stanovi,Beograd,"Savski Venac",4,255,"centralno grejanje",NULL,1,NULL,1,1,0,0,1
+23,3000,https://www.4zida.rs/izdavanje/stanovi/novi-sad/oglas/novi-sad-centar/612e2e50b37d1518ca20dcbc,izdavanje,stanovi,"Novi Sad","Stari Grad",5,254,"centralno grejanje",NULL,1,NULL,1,0,0,0,0
+20796,3000,https://www.4zida.rs/izdavanje/stanovi/novi-sad/oglas/novi-sad-centar/612e2e50b37d1518ca20dcbc,izdavanje,stanovi,"Novi Sad","Stari Grad",5,254,"centralno grejanje",NULL,1,NULL,1,0,0,0,0
+7698,159100,https://www.4zida.rs/prodaja/stanovi/subotica/oglas/centar-2/5f6e2e152f435659e047c697,prodaja,stanovi,Subotica,"Gradske lokacije",6,252,"centralno grejanje",NULL,1,NULL,0,0,0,1,1
+6953,2500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/hram-svetog-save/612e5fa9ad051d6900752f35,izdavanje,stanovi,Beograd,Neimar,4,250,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+20714,2000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/dedinje/61eb33d9dc98954e4758e5c0,izdavanje,stanovi,Beograd,"Savski Venac",4,250,"grejanje na gas",NULL,1,NULL,0,1,0,0,1
+6969,6500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/senjak/5ecd6c520c7cde146a51bbcd,izdavanje,stanovi,Beograd,"Savski Venac",5,250,"centralno grejanje",NULL,3,NULL,1,1,0,0,0
+20383,2000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/dedinje/61ef6ed1c9fd542b1c374d18,izdavanje,stanovi,Beograd,"Savski Venac",4,250,"grejanje na gas",NULL,1,NULL,0,1,0,0,1
+20551,2000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/nebojsina/61ee8d8a72e47615771018eb,izdavanje,stanovi,Beograd,Neimar,5,250,"centralno grejanje",NULL,2,NULL,0,1,0,0,0
+6954,4000,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/senjak/60bf4ff51642a2100659da99,izdavanje,stanovi,Beograd,"Savski Venac",4,250,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+1498,2500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/trnska/618839936ac9522cd7757a5f,izdavanje,stanovi,Beograd,Vračar,4,250,"centralno grejanje",NULL,1,NULL,1,1,0,0,0
+7053,2500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/jevrema-grujica/61a622927f3085562c501ab0,izdavanje,stanovi,Beograd,Dedinje,5,250,"centralno grejanje",NULL,1,NULL,1,1,0,0,1
+20736,2500,https://www.4zida.rs/izdavanje/stanovi/beograd/oglas/jevrema-grujica/61a622927f3085562c501ab0,izdavanje,stanovi,Beograd,Dedinje,5,250,"centralno grejanje",NULL,1,NULL,1,1,0,0,1
+1876,150000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/simeona-koncarevica/60db03351f37be6349475743,prodaja,stanovi,Beograd,Zemun,4,245,"etažno grejanje",NULL,1,2010,0,1,0,0,0
+14675,278100,https://www.4zida.rs/prodaja/stanovi/novi-sad/oglas/sajam-novi-sad/5f6dbee1e54ca9476601a2c1,prodaja,stanovi,"Novi Sad","Gradske lokacije",5.5,244,"centralno grejanje",NULL,1,NULL,1,1,0,1,0
+3416,480000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/brankova/5f5d3d08b603a60c9a630403,prodaja,stanovi,Beograd,"Stari Grad opština",8,242,"etažno grejanje",NULL,1,1935,1,1,0,1,0
+5031,405000,https://www.4zida.rs/prodaja/stanovi/novi-sad/oglas/miseluk/613114b8afefa515654afe24,prodaja,stanovi,"Novi Sad",Petrovaradin,7,242,NULL,NULL,1,2019,0,1,0,1,0
+7826,480000,https://www.4zida.rs/prodaja/stanovi/beograd/oglas/brankova/5f8de96c352c554f1445cf07,prodaja,stanovi,Beograd,"Stari Grad opština",8,242,"etažno grejanje",NULL,1,NULL,1,1,0,1,0
+16804,375950,https://www.4zida.rs/prodaja/stanovi/novi-sad/oglas/petrovaradin/5ceedd3d27317172356f455f,prodaja,stanovi,"Novi Sad","Gradske lokacije",7,242,NULL,NULL,1,2018,0,1,0,1,1

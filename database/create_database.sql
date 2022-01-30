@@ -19,7 +19,7 @@ CREATE TABLE IF NOT EXISTS ads(
    elevator BOOLEAN,
    balcony BOOLEAN,
    land_area DOUBLE,
-   registered VARCHAR(30),
+   registered BOOLEAN,
    parking BOOLEAN,
    PRIMARY KEY (id)
 );
