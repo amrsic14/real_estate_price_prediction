@@ -23,13 +23,13 @@ class DBConnection:
                 operation = f"INSERT INTO {table} " \
                             f"(price, link, offer_type, property_type, city, municipality, room_number, " \
                             f"square_footage, heating, bathroom_number, build_year, elevator, balcony, " \
-                            f"land_area, registered, parking) " \
-                            f"VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+                            f"land_area, registered, parking, state) " \
+                            f"VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
 
                 params = (ad['price'], ad['link'], ad['offer_type'], ad['property_type'], ad['city'],
                           ad['municipality'], ad['room_number'], ad['square_footage'], ad['heating'],
-                          ad['bathroom_number'], ad['build_year'], ad['elevator'], ad['balcony'],
-                          ad['land_area'], ad['registered'], ad['parking'])
+                          ad['bathroom_number'], ad.get('build_year', None), ad['elevator'], ad['balcony'],
+                          ad['land_area'], ad['registered'], ad['parking'], ad.get('state', None))
 
                 self.__cursor.execute(operation, params)
 
@@ -44,3 +44,4 @@ if __name__ == '__main__':
 
     db_conn.clear_table('ads')
     db_conn.insert_from_json(table='ads', json_file='../data_cleaning/4zida_cleaned.json')
+    # db_conn.insert_from_json(table='ads', json_file='../data_cleaning/nekretnine_cleaned.json')

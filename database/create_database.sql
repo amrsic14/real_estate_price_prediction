@@ -21,5 +21,6 @@ CREATE TABLE IF NOT EXISTS ads(
    land_area DOUBLE,
    registered BOOLEAN,
    parking BOOLEAN,
+   state VARCHAR(40),
    PRIMARY KEY (id)
 );
