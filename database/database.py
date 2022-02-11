@@ -21,14 +21,14 @@ class DBConnection:
             data = json.load(file)
             for ad in data:
                 operation = f"INSERT INTO {table} " \
-                            f"(price, link, offer_type, property_type, city, municipality, room_number, " \
-                            f"square_footage, heating, bathroom_number, build_year, elevator, balcony, " \
+                            f"(price, link, offer_type, property_type, city, municipality, address, room_number, " \
+                            f"square_footage, heating, floor, bathroom_number, build_year, elevator, balcony, " \
                             f"land_area, registered, parking, state) " \
-                            f"VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+                            f"VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
 
                 params = (ad['price'], ad['link'], ad['offer_type'], ad['property_type'], ad['city'],
-                          ad['municipality'], ad['room_number'], ad['square_footage'], ad['heating'],
-                          ad['bathroom_number'], ad.get('build_year', None), ad['elevator'], ad['balcony'],
+                          ad['municipality'], ad['address'], ad['room_number'], ad['square_footage'], ad['heating'],
+                          ad['floor'], ad['bathroom_number'], ad.get('build_year', None), ad['elevator'], ad['balcony'],
                           ad['land_area'], ad['registered'], ad['parking'], ad.get('state', None))
 
                 self.__cursor.execute(operation, params)

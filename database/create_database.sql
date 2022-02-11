@@ -10,6 +10,7 @@ CREATE TABLE IF NOT EXISTS ads(
    property_type VARCHAR(10),
    city VARCHAR(20),
    municipality VARCHAR(30),
+   address VARCHAR(100),
    room_number DOUBLE,
    square_footage DOUBLE,
    heating VARCHAR(20),
