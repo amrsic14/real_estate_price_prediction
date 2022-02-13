@@ -1,3 +1,5 @@
+import json
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -33,8 +35,8 @@ def gradient_descent(x, y, w, b, learning_rate, epochs):
         cost_list[epoch] = cost
 
         if epoch % (epochs / 100) == 0:
-            plt.plot(cost_list)
-            plt.pause(0.000001)
+            # plt.plot(cost_list)
+            # plt.pause(0.000001)
             print(f"Cost is: {cost}")
 
     return w, b, cost_list
@@ -52,8 +54,22 @@ def predict(X, w, b):
     return X.dot(w) + b
 
 
-if __name__ == '__main__':
+def dump_parameters(file, weights, bias):
+    params = {
+        'bias': bias,
+        'w_room_number': weights[0],
+        'w_square_footage': weights[1],
+        'w_floor': weights[2],
+        'w_elevator': weights[3],
+        'w_balcony': weights[4],
+        'w_registered': weights[5],
+        'w_distance': weights[6]
+    }
+    with open(file, 'w') as out_file:
+        json.dump(params, out_file)
 
+
+if __name__ == '__main__':
     # Import data
     data_df = pd.read_csv('../data_cleaning/belgrade_selling_flats.csv')
     data_df.dropna(subset=['distance'], inplace=True)
@@ -71,8 +87,8 @@ if __name__ == '__main__':
 
     # Train
     w, b, c = gradient_descent(x_train, y_train, np.zeros(x_train.shape[1]), 0, 0.0053, epochs=140000)
+    dump_parameters('parameters.json', w, b)
 
     y_pred = predict(x_test, w, b)
 
     print(f"r2 score: {r2score(y_pred, y_test)}")
-
