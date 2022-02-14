@@ -54,6 +54,23 @@ def predict(X, w, b):
     return X.dot(w) + b
 
 
+def linear_regression_prediction(X):
+    with open('../price_prediction_app/parameters.json', 'r') as file:
+        params = json.load(file)
+
+    w = np.array([
+        float(params['w_room_number']),
+        float(params['w_square_footage']),
+        float(params['w_floor']),
+        float(params['w_elevator']),
+        float(params['w_balcony']),
+        float(params['w_registered']),
+        float(params['w_distance'])
+    ])
+
+    return X.dot(w) + float(params['bias'])
+
+
 def dump_parameters(file, weights, bias):
     params = {
         'bias': bias,

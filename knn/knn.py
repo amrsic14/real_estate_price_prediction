@@ -28,6 +28,19 @@ def label_y(y):
     return np.array([label(item) for item in y])
 
 
+def decode_label(label) -> str:
+    if label == 0:
+        return "<= 49 999"
+    elif label == 1:
+        return "50 000 - 99 999"
+    elif label == 2:
+        return "100 000 - 149 999"
+    elif label == 3:
+        return "150 000 - 199 999"
+    elif label == 4:
+        return ">= 200 000"
+
+
 def find_k(input_data_len: int) -> int:
     k = int(math.sqrt(input_data_len))
     return k if k % 2 == 1 else k + 1
@@ -46,6 +59,19 @@ def predict(x_train, y_train , inputs, k):
     return output_labels
 
 
+def knn_prediction(x_test, k):
+    data_df = pd.read_csv('../data_cleaning/belgrade_selling_flats.csv')
+    data_df.dropna(subset=['distance'], inplace=True)
+
+    x_train = data_df.drop(['price'], axis=1).values
+    y_train = data_df['price'].values
+
+    labeled_y_train = label_y(y_train)
+    y_predicted = predict(x_train, labeled_y_train, x_test, k)
+
+    return decode_label(y_predicted[0])
+
+
 if __name__ == '__main__':
     # Import data
     data_df = pd.read_csv('../data_cleaning/belgrade_selling_flats.csv')
@@ -53,7 +79,7 @@ if __name__ == '__main__':
     normalized_data_df = normalize(data_df)
 
     # Separate training/test sets
-    train_df = normalized_data_df.sample(frac=0.7, random_state=0)
+    train_df = normalized_data_df.sample(frac=0.75, random_state=0)
     test_df = normalized_data_df.drop(train_df.index)
 
     x_train = train_df.drop(['price'], axis=1).values
